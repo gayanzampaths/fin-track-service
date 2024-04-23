@@ -1,0 +1,5 @@
+[Enforcer]
+environment_variables = {
+    MY_API_KEY = "some_secret_value"
+    LOG_LEVEL = "DEBUG"
+}
